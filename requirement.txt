@@ -1,0 +1,7 @@
+transformers
+langchain
+openai
+sentence-transformers
+faiss
+accelerate
+torch
